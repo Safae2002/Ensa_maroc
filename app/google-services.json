@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "952065539096",
+    "firebase_url": "https://ensa-maroc-default-rtdb.firebaseio.com",
+    "project_id": "ensa-maroc",
+    "storage_bucket": "ensa-maroc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952065539096:android:cf1354fb5a5c2dd53a576d",
+        "android_client_info": {
+          "package_name": "ma.ensaf.ensa_maroc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952065539096-3i9oc54jv8fscvtvu1nub41bq6d0im88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ma.ensaf.ensa_maroc",
+            "certificate_hash": "23c6572574edc2448dca7b856732970b0f588bea"
+          }
+        },
+        {
+          "client_id": "952065539096-3cgtivbduktbflmqdgu84j2ajermek24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK_N5EAb2FDteb3NTKiKh7rXQQkYtaeRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952065539096-3cgtivbduktbflmqdgu84j2ajermek24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
